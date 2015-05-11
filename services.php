@@ -14,40 +14,46 @@
 			<!-- navbar end -->	
 
     <div class="container">
-      <div style="margin-top: 100px; max-width: 75%;" class="panel panel-default">
-        <div class="panel-body">
-          <h1>Commercial Services</h1>
-          <p>TSpitz Consulting, Inc. is a proud supporter of the open source community. Unlike other companies, we do not stop at Windows support. We support most Linux distributions, as well as most open source software.</p> 
-          <p>We are ready and able to answer any question, no matter how small or large. If you have a question, just give us a call.</p>
-          <div class="row">
-            <div class="col-md-6">
-              <h3>Managed IT Services</h3>
-                <ul>
-                  <li>Server management</li>
-                  <li>Desktop management</li>
-                  <li>Remote help desk</li>
-                  <li>Backup & Data protection</li>
-                  <li>Patch Management</li>
-                  <li>Software Upgrades</li>
-                  <li>DNS & Domain Management</li>
-                </ul>
-            </div>
-            <div class="col-md-6">
-              <h3>Network Services</h3>
-              <ul>
-                <li>Local Area Network</li>
-                <li>Wireless Networking</li>
-                <li>Network Configuration</li>
-                <li>Network Protection</li>
-                <li>VPN Setup & Management</li>
-                <li>Local & Remote Monitoring</li>
-                <li> General problem solving</li>
-              </ul>
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10">  
+          <div style="margin-top: 10%" class="panel panel-default">
+            <div class="panel-body">
+              <h1>Commercial Services</h1>
+              <p>TSpitz Consulting, Inc. is a proud supporter of the open source community. Unlike other companies, we do not stop at Windows support. We support most Linux distributions, as well as most open source software.</p> 
+              <p>We are ready and able to answer any question, no matter how small or large. If you have a question, just give us a call.</p>
+              <div class="row">
+                <div class="col-md-6">
+                  <h3>Managed IT Services</h3>
+                  <ul>
+                    <li>Server management</li>
+                    <li>Desktop management</li>
+                    <li>Remote help desk</li>
+                    <li>Backup & Data protection</li>
+                    <li>Patch Management</li>
+                    <li>Software Upgrades</li>
+                    <li>DNS & Domain Management</li>
+                  </ul>
+                </div>
+                <div class="col-md-6">
+                  <h3>Network Services</h3>
+                  <ul>
+                    <li>Local Area Network</li>
+                    <li>Wireless Networking</li>
+                    <li>Network Configuration</li>
+                    <li>Network Protection</li>
+                    <li>VPN Setup & Management</li>
+                    <li>Local & Remote Monitoring</li>
+                    <li> General problem solving</li>
+                  </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
+        <div class="col-md-1"></div>
       </div>
-    </div>
+    </div> <!-- div-container -->
 
     <?php include('php/footer.php');?>
 		<!-- js files -->	

@@ -13,17 +13,28 @@
 			<?php include('php/navbar.php');?>
 			<!-- navbar end -->	
     <div class="container">
-      <div style="margin-top: 200px; max-width: 75%" class="transparent panel panel-default">
-        <div class="panel-body">
-          <img class="img-responsive" src="img/Logo_transparent_lg.png"></img>
+        <div class="row">
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            <div style="margin-top: 10%" class="transparent panel panel-default">
+              <div class="panel-body">
+                <img class="img-responsive" src="img/Logo_transparent_lg.png"></img>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2"></div>  
         </div>
-      </div>
-      <div style="margin-top: 200px; max-width: 50%" class="transparent panel panel-default">             
-        <div class="panel-body">
-          <h2>Technology. done right.</h2>
+        <div class="row"> 
+          <div class="col-md-2"></div>
+          <div class="col-md-8">
+            <div style="margin-top: 10%" class="transparent panel panel-default">             
+              <div class="panel-body">
+                <h2>Technology. done right.</h2>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-2"></div>
         </div>
-      </div>
-		</div>
 		<?php include('php/footer.php');?>
 		<!-- js files -->	
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
