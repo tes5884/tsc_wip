@@ -56,6 +56,7 @@
                 2 Olympia Lane <br />
                 Monsey, NY 10952 <br />
                 <abbr title="Phone">P:</abbr> (845) 219-1762 <br />
+                <abbr title="Fax">F:</abbr> (206) 333-0728 <br />
                 <abbr title="Email">E:</abbr> <a style="text-transform: lowercase" href="mailto:info@tspitzconsulting.com">info@tspitzconsulting.com</a>
               </address>
             </div>
