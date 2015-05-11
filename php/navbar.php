@@ -15,14 +15,14 @@
     <ul class="nav navbar-nav nav-text navbar-right">
       <li><a href="index.php">Home</a></li>
       <li><a href="services.php">Services</a></li>
-      <li><a href="about_us.php">About Us</a></li>
+<!--      <li><a href="about_us.php">About Us</a></li> -->
       <li><a href="contact.php">Contact</a></li>
       <li><a href="support.php">Support</a></li>
       <li class="dropdown">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Login <span class="caret"></span></a>
         <ul class="dropdown-menu" role="menu">
           <li><a href="#">Customer Backups</a></li>
-          <li><a href="http://tscinc.co:8008/technician">Technician</a></li>
+          <li><a href="technician.php">Technician</a></li>
         </ul>
       </li>
       <li><a href="https://twitter.com/tspitzconsult"><img style="max-width:20px" src=img/twitter.png></img></a></li>
