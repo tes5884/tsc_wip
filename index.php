@@ -14,7 +14,7 @@
 			<!-- navbar end -->	
     <div class="container">
         <div class="alert alert-success" role="alert">
-          We are now offering special backup services to our clients! <a href="#">Details here</a>
+          We are now offering special backup services to our clients! <a href="tsc_backup.php">Details here</a>
           <button type="button" class="close btn btn-default" data-dismiss="alert">
             <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
           </button>
