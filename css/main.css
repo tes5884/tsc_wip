@@ -1,0 +1,18 @@
+body {
+  background: url('../img/cloth.jpg');
+  #background-color: #dcdbd9;
+}
+.transparent {
+  background-color: rgba(255,255,255,0.5);
+}
+.nav-text {
+  font-family: 'Gill Sans W01',Arial,sans-serif;
+  text-transform: uppercase;
+}
+.panel {
+  background-color: rgba(255,255,255,0.5);
+  color: #777;
+  text-align: center;
+  font-family: 'Gill Sans W01',Arial,sans-serif;
+  text-transform: uppercase;
+}
